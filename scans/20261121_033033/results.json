@@ -1,0 +1,122 @@
+[
+  {
+    "domain": "ajuda.kiwify.com.br",
+    "is_wordpress": false,
+    "wp_version": null,
+    "elementor_version": null,
+    "elementor_pro_version": null,
+    "divi_version": null,
+    "divi_builder_version": null,
+    "payment_gateways": [
+      "kiwify"
+    ],
+    "vulnerable_cves": [],
+    "max_cvss": 0.0,
+    "has_checkout": true,
+    "risk_score": 0.0,
+    "error": null
+  },
+  {
+    "domain": "cevencursos.com.br",
+    "is_wordpress": true,
+    "wp_version": null,
+    "elementor_version": null,
+    "elementor_pro_version": null,
+    "divi_version": null,
+    "divi_builder_version": null,
+    "payment_gateways": [
+      "woocommerce"
+    ],
+    "vulnerable_cves": [],
+    "max_cvss": 0.0,
+    "has_checkout": true,
+    "risk_score": 0.0,
+    "error": null
+  },
+  {
+    "domain": "enotas.com.br",
+    "is_wordpress": true,
+    "wp_version": null,
+    "elementor_version": null,
+    "elementor_pro_version": null,
+    "divi_version": null,
+    "divi_builder_version": null,
+    "payment_gateways": [
+      "hotmart",
+      "woocommerce"
+    ],
+    "vulnerable_cves": [],
+    "max_cvss": 0.0,
+    "has_checkout": true,
+    "risk_score": 0.0,
+    "error": null
+  },
+  {
+    "domain": "kiwify.com.br",
+    "is_wordpress": false,
+    "wp_version": null,
+    "elementor_version": null,
+    "elementor_pro_version": null,
+    "divi_version": null,
+    "divi_builder_version": null,
+    "payment_gateways": [
+      "kiwify"
+    ],
+    "vulnerable_cves": [],
+    "max_cvss": 0.0,
+    "has_checkout": true,
+    "risk_score": 0.0,
+    "error": null
+  },
+  {
+    "domain": "mundotorajo.com.br",
+    "is_wordpress": false,
+    "wp_version": null,
+    "elementor_version": null,
+    "elementor_pro_version": null,
+    "divi_version": null,
+    "divi_builder_version": null,
+    "payment_gateways": [
+      "woocommerce"
+    ],
+    "vulnerable_cves": [],
+    "max_cvss": 0.0,
+    "has_checkout": true,
+    "risk_score": 0.0,
+    "error": null
+  },
+  {
+    "domain": "www.lancaperfume.com.br",
+    "is_wordpress": false,
+    "wp_version": null,
+    "elementor_version": null,
+    "elementor_pro_version": null,
+    "divi_version": null,
+    "divi_builder_version": null,
+    "payment_gateways": [
+      "woocommerce"
+    ],
+    "vulnerable_cves": [],
+    "max_cvss": 0.0,
+    "has_checkout": true,
+    "risk_score": 0.0,
+    "error": null
+  },
+  {
+    "domain": "www.phdvirtual.com.br",
+    "is_wordpress": true,
+    "wp_version": "7.1.5",
+    "elementor_version": "4.4.1",
+    "elementor_pro_version": null,
+    "divi_version": null,
+    "divi_builder_version": null,
+    "payment_gateways": [
+      "woocommerce"
+    ],
+    "vulnerable_cves": [],
+    "max_cvss": 0.0,
+    "has_checkout": true,
+    "risk_score": 0.0,
+    "error": null
+  }
+]

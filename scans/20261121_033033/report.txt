@@ -1,0 +1,42 @@
+============================================================
+RELATORIO - PAGINAS DE VENDAS VULNERAVEIS
+Data: 2026-11-21T03:30:33.927748
+Total: 30 | Interessantes: 7
+============================================================
+
+[#1] ajuda.kiwify.com.br
+  Risk: 0.0 | CVSS: 0.0
+  WP: Nao (v?)
+  Gateways: kiwify
+
+[#2] cevencursos.com.br
+  Risk: 0.0 | CVSS: 0.0
+  WP: Sim (v?)
+  Gateways: woocommerce
+
+[#3] enotas.com.br
+  Risk: 0.0 | CVSS: 0.0
+  WP: Sim (v?)
+  Gateways: hotmart, woocommerce
+
+[#4] kiwify.com.br
+  Risk: 0.0 | CVSS: 0.0
+  WP: Nao (v?)
+  Gateways: kiwify
+
+[#5] mundotorajo.com.br
+  Risk: 0.0 | CVSS: 0.0
+  WP: Nao (v?)
+  Gateways: woocommerce
+
+[#6] www.lancaperfume.com.br
+  Risk: 0.0 | CVSS: 0.0
+  WP: Nao (v?)
+  Gateways: woocommerce
+
+[#7] www.phdvirtual.com.br
+  Risk: 0.0 | CVSS: 0.0
+  WP: Sim (v7.1.5)
+  Elementor: v4.4.1
+  Gateways: woocommerce
+

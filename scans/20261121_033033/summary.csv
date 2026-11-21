@@ -1,0 +1,8 @@
+domain,elementor_ver,elementor_pro_ver,divi_ver,payment_gateways,vulnerable_cves,max_cvss,risk_score,has_checkout
+ajuda.kiwify.com.br,,,,kiwify,,0.0,0.0,True
+cevencursos.com.br,,,,woocommerce,,0.0,0.0,True
+enotas.com.br,,,,hotmart; woocommerce,,0.0,0.0,True
+kiwify.com.br,,,,kiwify,,0.0,0.0,True
+mundotorajo.com.br,,,,woocommerce,,0.0,0.0,True
+www.lancaperfume.com.br,,,,woocommerce,,0.0,0.0,True
+www.phdvirtual.com.br,4.4.1,,,woocommerce,,0.0,0.0,True
